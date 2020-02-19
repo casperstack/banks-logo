@@ -21,13 +21,13 @@ npm i --save banks-logo
 
 ## การใช้งาน
 ```
-const Bank = require('banks-logo');
+const Banks = require('banks-logo');
 
 // รายการธนาคารทั้งหมด
-console.log(Bank);
+console.log(Banks);
 
 // ค้นหาจากชื่อย่อธนาคาร
-console.log(Bank.get('kbank));
+console.log(Banks.get('kbank));
 ```
 
 ## What can I do with this
