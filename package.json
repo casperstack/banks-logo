@@ -1,6 +1,6 @@
 {
   "name": "banks-logo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ข้อมูลธนาคารของประเทศไทย และ รูปภาพแบบ SVG",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/casperstack/banks-logo#readme",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
   }
 }

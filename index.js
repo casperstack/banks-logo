@@ -1,7 +1,8 @@
 const fs = require('fs');
+const path = require('path');
 
 /** Load JSON File */
-let raw = fs.readFileSync('./data.json');
+let raw = fs.readFileSync(path.resolve(__dirname, 'banks.json'));
 const data = JSON.parse(raw);
 
 const Get = (key) => {
@@ -14,9 +15,9 @@ const listKey = () => {
 }
 
 const ThaiBank = {
-    data,
-    listKey,
-    Get
+  data,
+  listKey,
+  Get
 }
 
-module.exports = ThaiBank
+module.exports = ThaiBank;
