@@ -1,0 +1,24 @@
+{
+  "name": "banks-logo",
+  "version": "1.0.0",
+  "description": "ข้อมูลธนาคารของประเทศไทย และ รูปภาพแบบ SVG",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casperstack/banks-logo.git"
+  },
+  "keywords": [
+    "THAI",
+    "BANK",
+    "LOGO"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casperstack/banks-logo/issues"
+  },
+  "homepage": "https://github.com/casperstack/banks-logo#readme"
+}
