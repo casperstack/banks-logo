@@ -14,6 +14,22 @@
 - ชื่อภาษาอังกฤษ
 - ชื่อภาษาไทย
 
+## การติดตั้ง
+```
+npm i --save banks-logo
+```
+
+## การใช้งาน
+```
+const Bank = require('banks-logo');
+
+// รายการธนาคารทั้งหมด
+console.log(Bank);
+
+// ค้นหาจากชื่อย่อธนาคาร
+console.log(Bank.get('kbank));
+```
+
 ## What can I do with this
 
 You could use the svg and the bank brand color (available in the json file) to do something like this:
