@@ -21,7 +21,7 @@ npm i --save banks-logo
 
 ## การใช้งาน
 ```
-var banksLogo = require("banks-logo");
+var banksLogo = require('banks-logo');
 
 // รายการธนาคารทั้งหมด
 console.log(banksLogo);
