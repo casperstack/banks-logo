@@ -1,6 +1,18 @@
-# Banks Logo
+# โลโก้ธนาคาร
 
-A list of banks logo in svg and its list of associated color, code, official name, and nice name.
+## รายชื่อข้อมูลธนาคารประเทศไทย
+
+- Fork มาจาก https://github.com/omise/banks-logo
+- ได้มีการปรับเพิ่ม NodeJS สำหรับการติดตั้งบน NPM
+- ลบธนาคารบางส่วนออก
+
+## รายละเอียด
+- โลโก้แบบ SVG
+- Bank Code
+- ชื่อย่อธนาคาร
+- ชื่อทางการ
+- ชื่อภาษาอังกฤษ
+- ชื่อภาษาไทย
 
 ## What can I do with this
 
