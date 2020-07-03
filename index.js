@@ -32,7 +32,7 @@ const data = {
     code: '014',
     color: '#4e2e7f',
     official_name: 'SIAM COMMERCIAL BANK PUBLIC COMPANY LTD.',
-    official_name_thai: 'ธนาคารพาณิชย์',
+    official_name_thai: 'ธนาคารไทยพาณิชย์',
     nice_name: 'Siam Commercial Bank'
   },
   cimb: {
