@@ -63,6 +63,13 @@ const data = {
     official_name_thai: 'ธนาคารออมสิน',
     nice_name: 'Government Savings Bank'
   },
+  baac: {
+    code: '034',
+    color: '#4b9b1d',
+    official_name: 'BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES',
+    official_name_thai: 'ธนาคารเพื่อการเกษตร',
+    nice_name: 'Bank for Agriculture and Agricultural Cooperatives'
+  },
   tbank: {
     code: '065',
     color: '#fc4f1f',
@@ -91,21 +98,21 @@ const data = {
     official_name_thai: 'ธนาคารแลนด์ แอนด์ เฮ้าส์ ',
     nice_name: 'Land and Houses Bank'
   }
-}
+};
 
 const Get = (key) => {
-  return data[key]
-}
+  return data[key];
+};
 
 /** List all key in the objects and return in array*/
 const listKey = () => {
-  return Object.keys(data)
-}
+  return Object.keys(data);
+};
 
 const ThaiBank = {
   data,
   listKey,
   Get
-}
+};
 
 module.exports = ThaiBank;
