@@ -130,7 +130,7 @@ const data = {
     code: '074',
     color: '#ee871e',
     official_name: 'TMB THANACHART BANK PUBLIC COMPANY LIMITED',
-    official_name_thai: 'ธนาคารทหารไทยธนชาต',
+    official_name_thai: 'ธนาคารทีเอ็มบีธนชาต',
     nice_name: 'TMB Thanachart Bank',
     short_name: 'ttb',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/ttb.svg',
