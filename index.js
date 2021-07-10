@@ -133,7 +133,7 @@ const data = {
     official_name_thai: 'ธนาคารทหารไทยธนชาต',
     nice_name: 'TMB Thanachart Bank',
     sort_name: 'ttb',
-    image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/ttb.png',
+    image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/ttb.svg',
   },
 
 };
