@@ -97,7 +97,15 @@ const data = {
     official_name: 'LAND AND HOUSES BANK PUBLIC COMPANY LIMITED',
     official_name_thai: 'ธนาคารแลนด์ แอนด์ เฮ้าส์ ',
     nice_name: 'Land and Houses Bank'
-  }
+  },
+  ttb: {
+    code: '074',
+    color: '#ee871e',
+    official_name: 'TMB THANACHART BANK PUBLIC COMPANY LIMITED',
+    official_name_thai: 'ธนาคารทหารไทยธนชาต',
+    nice_name: 'TMB Thanachart Bank'
+  },
+
 };
 
 const Get = (key) => {
