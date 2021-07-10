@@ -1,6 +1,6 @@
 {
   "name": "banks-logo",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "ข้อมูลธนาคารของประเทศไทย และ รูปภาพแบบ SVG",
   "main": "index.js",
   "scripts": {
