@@ -6,7 +6,7 @@ const data = {
     official_name: 'BANGKOK BANK PUBLIC COMPANY LTD.',
     official_name_thai: 'ธนาคารกรุงเทพ',
     nice_name: 'Bangkok Bank',
-    sort_name: 'bbl',
+    short_name: 'bbl',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/bbl.svg',
   },
   kbank: {
@@ -15,7 +15,7 @@ const data = {
     official_name: 'KASIKORNBANK PUBLIC COMPANY LTD.',
     official_name_thai: 'ธนาคารกสิกรไทย',
     nice_name: 'Kasikornbank',
-    sort_name: 'kbank',
+    short_name: 'kbank',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/kbank.svg',
   },
   ktb: {
@@ -24,7 +24,7 @@ const data = {
     official_name: 'KRUNG THAI BANK PUBLIC COMPANY LTD.',
     official_name_thai: 'ธนาคารกรุงไทย',
     nice_name: 'Krungthai Bank',
-    sort_name: 'ktb',
+    short_name: 'ktb',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/ktb.svg',
   },
   tmb: {
@@ -33,7 +33,7 @@ const data = {
     official_name: 'TMB BANK PUBLIC COMPANY LIMITED.',
     official_name_thai: 'ธนาคารทหารไทย',
     nice_name: 'TMB Bank',
-    sort_name: 'tmb',
+    short_name: 'tmb',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/tmb.svg',
   },
   scb: {
@@ -42,7 +42,7 @@ const data = {
     official_name: 'SIAM COMMERCIAL BANK PUBLIC COMPANY LTD.',
     official_name_thai: 'ธนาคารไทยพาณิชย์',
     nice_name: 'Siam Commercial Bank',
-    sort_name: 'scb',
+    short_name: 'scb',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/scb.svg',
   },
   cimb: {
@@ -51,7 +51,7 @@ const data = {
     official_name: 'CIMB THAI BANK PUPBLIC COMPANY LTD.',
     official_name_thai: 'ธนาคารซีไอเอ็มบี',
     nice_name: 'CIMB Thai Bank',
-    sort_name: 'cimb',
+    short_name: 'cimb',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/cimb.svg',
   },
   uob: {
@@ -60,7 +60,7 @@ const data = {
     official_name: 'UNITED OVERSEAS BANK (THAI) PUBLIC COMPANY LIMITED',
     official_name_thai: 'ธนาคารยูโอบี',
     nice_name: 'United Overseas Bank (Thai)',
-    sort_name: 'uob',
+    short_name: 'uob',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/uob.svg',
   },
   bay: {
@@ -69,7 +69,7 @@ const data = {
     official_name: 'BANK OF AYUDHYA PUBLIC COMPANY LTD.',
     official_name_thai: 'ธนาคารกรุงศรีอยุธยา',
     nice_name: 'Krungsri',
-    sort_name: 'bay',
+    short_name: 'bay',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/bay.svg',
   },
   gsb: {
@@ -78,7 +78,7 @@ const data = {
     official_name: 'THE GOVERNMENT SAVINGS BANK',
     official_name_thai: 'ธนาคารออมสิน',
     nice_name: 'Government Savings Bank',
-    sort_name: 'gsb',
+    short_name: 'gsb',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/gsb.svg',
   },
   baac: {
@@ -87,7 +87,7 @@ const data = {
     official_name: 'BANK FOR AGRICULTURE AND AGRICULTURAL COOPERATIVES',
     official_name_thai: 'ธนาคารเพื่อการเกษตร',
     nice_name: 'Bank for Agriculture and Agricultural Cooperatives',
-    sort_name: 'baac',
+    short_name: 'baac',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/baac.svg',
   },
   tbank: {
@@ -96,7 +96,7 @@ const data = {
     official_name: 'THANACHART BANK PUBLIC COMPANY LTD.',
     official_name_thai: 'ธนาคารธนชาติ',
     nice_name: 'Thanachart Bank',
-    sort_name: 'tbank',
+    short_name: 'tbank',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/tbank.svg',
   },
   kk: {
@@ -105,7 +105,7 @@ const data = {
     official_name: 'KIATNAKIN BANK PUBLIC COMPANY LIMITED',
     official_name_thai: 'ธนาคารเกียรตินาคิน',
     nice_name: 'Kiatnakin Bank',
-    sort_name: 'kk',
+    short_name: 'kk',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/kk.svg',
   },
   icbc: {
@@ -114,7 +114,7 @@ const data = {
     official_name: 'INDUSTRIAL AND COMMERCIAL BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED',
     official_name_thai: 'ธนาคารไอซีบีซี',
     nice_name: 'Industrial and Commercial Bank of China (Thai)',
-    sort_name: 'icbc',
+    short_name: 'icbc',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/icbc.svg',
   },
   lhb: {
@@ -123,7 +123,7 @@ const data = {
     official_name: 'LAND AND HOUSES BANK PUBLIC COMPANY LIMITED',
     official_name_thai: 'ธนาคารแลนด์ แอนด์ เฮ้าส์ ',
     nice_name: 'Land and Houses Bank',
-    sort_name: 'lhb',
+    short_name: 'lhb',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/lhb.svg',
   },
   ttb: {
@@ -132,7 +132,7 @@ const data = {
     official_name: 'TMB THANACHART BANK PUBLIC COMPANY LIMITED',
     official_name_thai: 'ธนาคารทหารไทยธนชาต',
     nice_name: 'TMB Thanachart Bank',
-    sort_name: 'ttb',
+    short_name: 'ttb',
     image: 'https://raw.githubusercontent.com/casperstack/banks-logo/master/th/ttb.svg',
   },
 
